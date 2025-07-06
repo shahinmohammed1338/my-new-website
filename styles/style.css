@@ -199,3 +199,12 @@
   font-variant: small-caps;
   text-shadow: black 2px;
 }
+img{
+  border: 2px solid black;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  display: block;
+  margin: 20px auto;
+  border-image-repeat: cover;
+  background-repeat: repeat;
+}
