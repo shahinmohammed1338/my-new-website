@@ -208,3 +208,12 @@ img{
   border-image-repeat: cover;
   background-repeat: repeat;
 }
+.header{
+  height: 300px;
+  border: solid 2px black;
+  background-image: url('pexels-ann-h-45017-32319618 (1).jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
+
