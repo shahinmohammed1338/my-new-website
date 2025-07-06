@@ -1,0 +1,99 @@
+#dreams{
+  background-color: #4CAF50;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  font-weight: bold;
+  font-variant: small-caps;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: inherit;
+  font-size: larger;
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+}
+.p1{
+  background-color: cornflowerblue;
+  border-style: solid;
+  border-color: blanchedalmond;
+  border-width: 2px;
+  font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-variant: small-caps;
+  padding: 10px;
+  margin: 0px;
+  text-shadow: #4CAF50 2px 2px 4px;
+}
+.speech.about.dreams{
+  background-color: darkred;
+  border-style: solid;
+  padding: 10px;
+  margin: 20px 100px 20px 0px;
+  font-weight: bold;
+  font-size: x-large;
+  font-family: 'Courier New', Courier, monospace;
+  font-variant: small-caps;
+  text-transform: uppercase;
+}
+.p2{
+  background-color: aquamarine;
+  background-position: left;
+  border: solid 2px;
+  font-style: inherit;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px 0px;
+}
+.point1{
+  background-color: bisque;
+  border-style: solid;
+  box-shadow: 2px;
+  font-weight: bold;
+  font-variant: initial;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: larger;
+  padding: 10px;
+  margin: 20px 100px 20px 0px;
+}
+.p3{
+  background-color: lightgreen;
+  border-style: solid;
+  border-color: darkgreen;
+  border-width: 2px;
+  font-display: glyph;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px 10px;  
+  margin: 0px 0px 0px 0px;
+  font-style: initial;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px burlywood;
+}
+.point2{
+  background-color: seagreen;
+  border-style: solid;
+  border-color: darkred;  
+  border-width: 2px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  margin: 20px 100px 20px 0px;
+  font-variant: small-caps;
+  font-size: larger;
+}
+.p4{
+  background-color: lightseagreen;
+  border-style: solid;
+  border-color: darkslategray;  
+  border-width: 2px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;  
+  margin: 10px 0px 0px 0px;
+  font-variant: small-caps;
+  font-size: larger;
+  text-shadow: 2px 2px 4px cyan;
+
+}
